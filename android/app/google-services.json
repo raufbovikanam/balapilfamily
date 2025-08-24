@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348518026884",
+    "project_id": "balapil-family-tree-8da8c",
+    "storage_bucket": "balapil-family-tree-8da8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348518026884:android:92267e3f69fba26075fcd1",
+        "android_client_info": {
+          "package_name": "com.example.balapil_fixed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_JvKchlq2zKINKOnyuOFjMkjhogGZeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
